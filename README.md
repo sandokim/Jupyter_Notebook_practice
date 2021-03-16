@@ -1,3 +1,9 @@
+## **데이터 분석 코드 이해**
+
+df = pandas.read_csv('../data/gapminder.tst', sep='\t') 
+
+../는 현재 디렉터리의 위치를 의미합니다. 위 코드는 현재 디렉터리에서 data폴더->gaminder.tst 을 불러올 것임을 의미합니다.
+
 ### **주피터 노트북 단축키**
 
 **Jupyter 주요 단축키 모음**
